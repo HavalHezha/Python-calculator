@@ -42,7 +42,7 @@ elif opa == "/":
 
 cun = input("continue ? ")
 if cun == "yes":
-
+    os.system('clear')
     os.system('python3 calculator.py')
 else:
     exit()
