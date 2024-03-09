@@ -43,7 +43,7 @@ elif opa == "/":
 cun = input("continue ? ")
 if cun == "yes":
 
-    os.system('python3 neq.py')
+    os.system('python3 calculator.py')
 else:
     exit()
 
