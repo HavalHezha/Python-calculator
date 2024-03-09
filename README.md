@@ -1,16 +1,6 @@
 
-Welcome For My Simple First Projeict 
+<h1>سەرەتا پێویستت بە بەرنامەی پایتۆنە</h1>
+<h1>https://www.python.org/ftp/python/3.12.2/python-3.12.2-embed-amd64.zip</h1>
 
-
-
-You can use In linux :
-
-$ sudo apt install python3
-
-$ sudo apt install git
-
-$ git clone https://github.com/HavalHezha/Python-calculator.git
-
-$ cd Python-calculator
-
-$ python3 calculator.py
+<h1>دواتر ،ئەم پرۆژەیە وەک زیپ دابەزێنە
+فایلە زیپەکە دەربهێنە و calculator.py جێبەجێ بکە</h1>
